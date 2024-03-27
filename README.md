@@ -1,2 +1,0 @@
-# ProjetoHtmlCSS
-arquivos do curso
